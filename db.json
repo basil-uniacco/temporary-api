@@ -1,5 +1,14 @@
 {
-  "Grace Period": "6",
-  "Disbursal Period": "9",
-  "Course Duration": "24"
+  "customize": [
+    {
+    "gracePeriod": "6",
+    "disbursalPeriod": "9",
+    "courseDuration": "24"
+  }
+  ],
+  "results": {
+    "emi": "1234",
+    "loanAmount": "19999",
+    "loanDuration": "6"
+  }
 }
